@@ -4,7 +4,10 @@
 	"dependencies": {
 		"express" : "4.10.2",
 		"redis": "*",
-		"body-parser": "*"
+		"body-parser": "*",
+		"mongoose": "*",
+		"node-uuid": "*",
+		"generic-pool": "*"
 	},
 	"devDependencies":{
 		"request": "*"
